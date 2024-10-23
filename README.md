@@ -16,8 +16,7 @@ The project is divided into three parts:
    
 ## Setup Instructions
 To run the analysis, follow these steps:
-1.	Clone this repository:
-git clone https://github.com/yourusername/predictive-analytics-assignment.git
+1.	Clone this repository. https://github.com/Starrynightssss/Rproject.git
 2.	Open the project in RStudio.
 3.	Install the required libraries by running:
 install.packages(c("ggplot2", "dplyr", "caret", "randomForest", "rpart", "tidyverse"))
