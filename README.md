@@ -28,10 +28,11 @@ o	regression_model.R: Builds and evaluates different regression models.
 o	decision_tree_model.R: Builds and evaluates different decision tree models.
 
 ## Key Results
-•	Regression Models: We built multiple regression models and performed feature selection to optimize predictions. The final model had an R-squared value of 0.78, indicating a strong predictive capability.
+•	Regression Models: We built multiple regression models and performed feature selection to optimize predictions
+. The final model had an R-squared value of 0.78, indicating a strong predictive capability.
 •	Decision Tree Models: We built and pruned decision tree models to achieve the best results. The optimal tree provided an intuitive explanation of the factors affecting property prices.
 •	Model Comparison: The decision tree model performed slightly better than the regression model based on accuracy and interpretability, making it the recommended solution for the business case.
-Project Files
+## Project Files
 •	data_exploration.R: Exploratory data analysis and data transformation.
 •	data_cleaning.R: Data cleaning and handling missing values.
 •	regression_model.R: Builds multiple regression models and compares them.
